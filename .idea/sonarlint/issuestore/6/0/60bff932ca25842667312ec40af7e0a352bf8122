@@ -1,0 +1,11 @@
+
+D
+java:S1172"(Remove this unused method parameter "v".(€ÛŸO8÷õô‡Î.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Àäèşÿÿÿÿ8Óö»ÅÌ.
+J
+java:S1172"(Remove this unused method parameter "v".(«Àäèşÿÿÿÿ8Óö»ÅÌ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ôÍ€8Óö»ÅÌ.
+Q	java:S110
+"<This class has 9 parents which is greater than 5 authorized.(…ª£·
+Q
+java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8ëèÆŒÎ.

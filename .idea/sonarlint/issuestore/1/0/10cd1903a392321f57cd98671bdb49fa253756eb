@@ -1,0 +1,12 @@
+
+L
+java:S3740*"/Provide the parametrized type for this generic.(æô’8‡­ÅÌ.
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ßÔùÿÿÿÿ8“ë¨ÅÌ.
+E
+java:S1172"(Remove this unused method parameter "v".(–Šš±8“ë¨ÅÌ.
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8©ü‘ÅÌ.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8“ë¨ÅÌ.
+m	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õá§²8“ë¨ÅÌ.
+l	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤ßc8“ë¨ÅÌ.
+p
+java:S3252G"NUse static access with "android.content.DialogInterface" for "BUTTON_NEUTRAL".(à³éàÿÿÿÿÿ8ãœ®ÅÌ.

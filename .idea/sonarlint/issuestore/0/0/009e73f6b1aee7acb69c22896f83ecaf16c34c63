@@ -1,0 +1,33 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñšÔ8äışÅÌ.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8äışÅÌ.
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‘Ÿ¤ÿÿÿÿÿ8äışÅÌ.
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(ñšÔ8äışÅÌ.
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8äışÅÌ.
+m	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô„˜œ8äışÅÌ.
+{
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8äışÅÌ.
+?
+java:S1116‚"Remove this empty statement.(È›¢şÿÿÿÿ8äışÅÌ.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ñšÔ8äışÅÌ.
+>
+java:S1116H"Remove this empty statement.(È›¢şÿÿÿÿ8äışÅÌ.
+r	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›çÍùÿÿÿÿ8äışÅÌ.
+{
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8äışÅÌ.
+m	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¾ë×8äışÅÌ.
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8äışÅÌ.
+£
+java:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ8äışÅÌ.
+{
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8äışÅÌ.
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(áè€İúÿÿÿÿ
+>
+java:S1116e"Remove this empty statement.(È›¢şÿÿÿÿ8äışÅÌ.
+m	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“÷¯·8äışÅÌ.
+p
+java:S1192D"NDefine a constant instead of duplicating this literal "Authorization" 3 times.(…¨üšùÿÿÿÿ8äışÅÌ.
+£
+java:S1186>"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ8äışÅÌ.
+£
+java:S1186["€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ8äışÅÌ.
